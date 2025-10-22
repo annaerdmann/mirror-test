@@ -1,3 +1,0 @@
-[submodule "external/geospatial"]
-	path = external/geospatial
-	url = https://github.com/ibm-granite/geospatial.git
