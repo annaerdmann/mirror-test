@@ -1,3 +1,6 @@
 [submodule "geospatial"]
 	path = geospatial
 	url = https://github.com/ibm-granite/geospatial.git
+[submodule "test-repo"]
+	path = test-repo
+	url = https://github.com/annaerdmann/test-repo.git
