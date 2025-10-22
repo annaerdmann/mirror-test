@@ -1,0 +1,3 @@
+[submodule "geospatial"]
+	path = geospatial
+	url = https://github.com/ibm-granite/geospatial.git
